@@ -9,6 +9,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/wbsanjar/Leetcode--Question/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/wbsanjar/Leetcode--Question/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
@@ -19,4 +20,16 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/wbsanjar/Leetcode--Question/tree/master/0010-regular-expression-matching) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/wbsanjar/Leetcode--Question/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/wbsanjar/Leetcode--Question/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/wbsanjar/Leetcode--Question/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
