@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/wbsanjar/Leetcode--Question/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/wbsanjar/Leetcode--Question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/wbsanjar/Leetcode--Question/tree/master/0038-count-and-say) |
 ## Linked List
 |  |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/wbsanjar/Leetcode--Question/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/wbsanjar/Leetcode--Question/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/wbsanjar/Leetcode--Question/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
