@@ -6,6 +6,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/wbsanjar/Leetcode--Question/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/wbsanjar/Leetcode--Question/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/wbsanjar/Leetcode--Question/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/wbsanjar/Leetcode--Question/tree/master/0038-count-and-say) |
 ## Linked List
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/wbsanjar/Leetcode--Question/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/wbsanjar/Leetcode--Question/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/wbsanjar/Leetcode--Question/tree/master/0031-next-permutation) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/wbsanjar/Leetcode--Question/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
