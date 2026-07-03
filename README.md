@@ -42,6 +42,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/wbsanjar/Leetcode--Question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/wbsanjar/Leetcode--Question/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/wbsanjar/Leetcode--Question/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,10 +52,12 @@
 | ------- |
 | [0031-next-permutation](https://github.com/wbsanjar/Leetcode--Question/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/wbsanjar/Leetcode--Question/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/wbsanjar/Leetcode--Question/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/wbsanjar/Leetcode--Question/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/wbsanjar/Leetcode--Question/tree/master/0037-sudoku-solver) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +66,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/wbsanjar/Leetcode--Question/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/wbsanjar/Leetcode--Question/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
