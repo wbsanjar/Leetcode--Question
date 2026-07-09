@@ -8,6 +8,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/wbsanjar/Leetcode--Question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/wbsanjar/Leetcode--Question/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/wbsanjar/Leetcode--Question/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/wbsanjar/Leetcode--Question/tree/master/0043-multiply-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/wbsanjar/Leetcode--Question/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/wbsanjar/Leetcode--Question/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/wbsanjar/Leetcode--Question/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
