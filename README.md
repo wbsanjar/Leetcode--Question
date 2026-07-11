@@ -27,6 +27,7 @@
 | [0010-regular-expression-matching](https://github.com/wbsanjar/Leetcode--Question/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/wbsanjar/Leetcode--Question/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/wbsanjar/Leetcode--Question/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0045-jump-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0039-combination-sum](https://github.com/wbsanjar/Leetcode--Question/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/wbsanjar/Leetcode--Question/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/wbsanjar/Leetcode--Question/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0045-jump-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/wbsanjar/Leetcode--Question/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
