@@ -21,6 +21,7 @@
 | [0010-regular-expression-matching](https://github.com/wbsanjar/Leetcode--Question/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/wbsanjar/Leetcode--Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/wbsanjar/Leetcode--Question/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/wbsanjar/Leetcode--Question/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/wbsanjar/Leetcode--Question/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/wbsanjar/Leetcode--Question/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/wbsanjar/Leetcode--Question/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
