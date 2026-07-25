@@ -65,6 +65,7 @@
 | [0046-permutations](https://github.com/wbsanjar/Leetcode--Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/wbsanjar/Leetcode--Question/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/wbsanjar/Leetcode--Question/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0039-combination-sum](https://github.com/wbsanjar/Leetcode--Question/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/wbsanjar/Leetcode--Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/wbsanjar/Leetcode--Question/tree/master/0051-n-queens) |
 ## Monotonic Stack
 |  |
 | ------- |
