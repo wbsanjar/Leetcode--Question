@@ -29,10 +29,12 @@
 | [0032-longest-valid-parentheses](https://github.com/wbsanjar/Leetcode--Question/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/wbsanjar/Leetcode--Question/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/wbsanjar/Leetcode--Question/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/wbsanjar/Leetcode--Question/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/wbsanjar/Leetcode--Question/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0047-permutations-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/wbsanjar/Leetcode--Question/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/wbsanjar/Leetcode--Question/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/wbsanjar/Leetcode--Question/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
