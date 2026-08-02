@@ -30,6 +30,7 @@
 | [0042-trapping-rain-water](https://github.com/wbsanjar/Leetcode--Question/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/wbsanjar/Leetcode--Question/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/wbsanjar/Leetcode--Question/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0051-n-queens](https://github.com/wbsanjar/Leetcode--Question/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/wbsanjar/Leetcode--Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/wbsanjar/Leetcode--Question/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/wbsanjar/Leetcode--Question/tree/master/0055-jump-game) |
 ## Matrix
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/wbsanjar/Leetcode--Question/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
