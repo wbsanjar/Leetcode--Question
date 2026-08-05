@@ -72,6 +72,7 @@
 | [0053-maximum-subarray](https://github.com/wbsanjar/Leetcode--Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/wbsanjar/Leetcode--Question/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/wbsanjar/Leetcode--Question/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/wbsanjar/Leetcode--Question/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -122,4 +123,9 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/wbsanjar/Leetcode--Question/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/wbsanjar/Leetcode--Question/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
