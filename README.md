@@ -11,6 +11,7 @@
 | [0043-multiply-strings](https://github.com/wbsanjar/Leetcode--Question/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/wbsanjar/Leetcode--Question/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/wbsanjar/Leetcode--Question/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/wbsanjar/Leetcode--Question/tree/master/0068-text-justification) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0063-unique-paths-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wbsanjar/Leetcode--Question/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/wbsanjar/Leetcode--Question/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/wbsanjar/Leetcode--Question/tree/master/0068-text-justification) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0054-spiral-matrix](https://github.com/wbsanjar/Leetcode--Question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/wbsanjar/Leetcode--Question/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/wbsanjar/Leetcode--Question/tree/master/0068-text-justification) |
 ## Greedy
 |  |
 | ------- |
