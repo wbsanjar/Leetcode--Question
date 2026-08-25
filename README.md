@@ -63,6 +63,7 @@
 | [0036-valid-sudoku](https://github.com/wbsanjar/Leetcode--Question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/wbsanjar/Leetcode--Question/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/wbsanjar/Leetcode--Question/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/wbsanjar/Leetcode--Question/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0064-minimum-path-sum](https://github.com/wbsanjar/Leetcode--Question/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/wbsanjar/Leetcode--Question/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/wbsanjar/Leetcode--Question/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/wbsanjar/Leetcode--Question/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0059-spiral-matrix-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wbsanjar/Leetcode--Question/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/wbsanjar/Leetcode--Question/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
