@@ -93,6 +93,7 @@
 | [0066-plus-one](https://github.com/wbsanjar/Leetcode--Question/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/wbsanjar/Leetcode--Question/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/wbsanjar/Leetcode--Question/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/wbsanjar/Leetcode--Question/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0063-unique-paths-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wbsanjar/Leetcode--Question/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/wbsanjar/Leetcode--Question/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/wbsanjar/Leetcode--Question/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/wbsanjar/Leetcode--Question/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/wbsanjar/Leetcode--Question/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
