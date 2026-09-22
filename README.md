@@ -53,6 +53,7 @@
 | [0085-maximal-rectangle](https://github.com/wbsanjar/Leetcode--Question/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/wbsanjar/Leetcode--Question/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/wbsanjar/Leetcode--Question/tree/master/0096-unique-binary-search-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0067-add-binary](https://github.com/wbsanjar/Leetcode--Question/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/wbsanjar/Leetcode--Question/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/wbsanjar/Leetcode--Question/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/wbsanjar/Leetcode--Question/tree/master/0096-unique-binary-search-trees) |
 ## Simulation
 |  |
 | ------- |
@@ -246,13 +248,16 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/wbsanjar/Leetcode--Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/wbsanjar/Leetcode--Question/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/wbsanjar/Leetcode--Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/wbsanjar/Leetcode--Question/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/wbsanjar/Leetcode--Question/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/wbsanjar/Leetcode--Question/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
